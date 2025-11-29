@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **chunchunkrsingh31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Uber Clone
 - 🌱 **I’m currently learning:** : Full Stack Developer
 - 👯 **I’m looking to collaborate on:**: E-Hospital Management System
 - 🤔 **I’m looking for help with:** E-Hospital Management System
