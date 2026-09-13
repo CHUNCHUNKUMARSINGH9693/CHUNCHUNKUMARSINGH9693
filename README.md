@@ -10,7 +10,7 @@
 
 ### Full Stack Web Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Exploring+AI+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Software+Engineer;Software+Developer;Building+Modern+Web+Applications;Exploring+AI+Integration" alt="Typing SVG" />
 
 <br/>
 
