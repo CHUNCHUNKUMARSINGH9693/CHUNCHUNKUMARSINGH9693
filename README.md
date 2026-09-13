@@ -206,103 +206,21 @@ Building and improving a full-stack e-commerce application with product manageme
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce with AI Assistant
-
-**Full-Stack MERN E-Commerce Platform**
-
-React.js • Node.js • Express.js • MongoDB • Gemini AI • Razorpay
-
-**Features**
-
-* 🔐 JWT Authentication
-* 🛍️ Product & Cart Management
-* 📦 Order Processing
-* 🤖 Gemini AI Virtual Assistant
-* 💳 Razorpay Payment Integration
-* 👨‍💼 Admin Management
-
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce">
-  <img src="https://img.shields.io/badge/🔗%20View%20GitHub-181717?style=for-the-badge" alt="View E-Commerce Repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=ecommerce&theme=tokyonight&hide_border=true" alt="E-Commerce With AI Assistant" />
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 E-Hospital Management System
-
-**Full-Stack Hospital Management Platform**
-
-React.js • Node.js • Express.js • MongoDB • Voice Assistant
-
-**Features**
-
-* 👨‍⚕️ Doctor Management
-* 🧑‍⚕️ Patient Management
-* 📅 Appointment Booking
-* 💊 Digital Prescriptions
-* 🏥 Pharmacy Management
-* 🎙️ Voice Assistant
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/E-Hospital-Management-System">
-  <img src="https://img.shields.io/badge/🔗%20View%20GitHub-181717?style=for-the-badge" alt="View E-Hospital Repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=E-Hospital-Management-System&theme=tokyonight&hide_border=true" alt="E-Hospital Management System" />
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Personal Portfolio
-
-**Modern Full-Stack Developer Portfolio**
-
-React 19 • Vite • Tailwind CSS • Node.js • Express.js • MySQL • Gemini AI
-
-**Features**
-
-* 🎨 Modern Responsive UI
-* 🤖 AI Integration
-* 📧 Contact System
-* 🔐 Admin CMS
-* 🗄️ MySQL Database
-* ⚡ REST API
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio">
-  <img src="https://img.shields.io/badge/🔗%20View%20GitHub-181717?style=for-the-badge" alt="View Portfolio Repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=chunchun-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍔 Zomato Clone
-
-**MERN Stack Food Delivery Application**
-
-React.js • Node.js • Express.js • MongoDB • Tailwind CSS
-
-**Features**
-
-* 🔍 Restaurant Search
-* 🍕 Food Listings
-* 🛒 Cart Management
-* 👤 User Authentication
-* 📱 Responsive Design
-* 🔗 REST API Integration
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone">
-  <img src="https://img.shields.io/badge/🔗%20View%20GitHub-181717?style=for-the-badge" alt="View Zomato Repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=Edunet-Zomoto-Clone&theme=tokyonight&hide_border=true" alt="Zomato Clone" />
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
