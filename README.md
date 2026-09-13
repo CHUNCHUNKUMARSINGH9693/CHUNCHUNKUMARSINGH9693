@@ -164,15 +164,12 @@ Building and improving a full-stack e-commerce application with product manageme
 </div>
 
 ---
-
-## 📈 Contribution Activity Graph
+## 📊 GitHub Contributions
 
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUNCHUNKUMARSINGH9693&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
-
+  <img src="https://img.shields.io/badge/View%20My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github" alt="View GitHub Contributions" />
 </a>
 
 </div>
