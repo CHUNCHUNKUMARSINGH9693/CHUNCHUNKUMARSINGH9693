@@ -27,7 +27,7 @@
   <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://chunchun-portfolio-ashen.vercel.app/">
+  <a href="https://chunchun-portfolio-zeta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:chunchunkrsingh31@gmail.com">
