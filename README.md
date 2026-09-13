@@ -108,11 +108,17 @@ Building and improving a full-stack e-commerce application with product manageme
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHUNCHUNKUMARSINGH9693&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Statistics" />
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Analytics-181717?style=for-the-badge&logo=github" alt="View GitHub Analytics" />
 </a>
 
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNCHUNKUMARSINGH9693&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Programming Languages" />
+<br/><br/>
+
+<a href="https://github.com/CHUNCHUNKUMARSINGH9693?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Projects-2563EB?style=for-the-badge&logo=github" alt="Explore Repositories" />
+</a>
+
+<a href="https://github.com/CHUNCHUNKUMARSINGH9693?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View%20My%20Stars-F5C518?style=for-the-badge&logo=github&logoColor=black" alt="View Stars" />
 </a>
 
 </div>
