@@ -206,9 +206,7 @@ Building and improving a full-stack e-commerce application with product manageme
 
 <div align="center">
 
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=ecommerce&theme=tokyonight&hide_border=true" width="400" alt="E-Commerce With AI Assistant" />
-</a>
+<a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce Project" /> </a>
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/E-Hospital-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=E-Hospital-Management-System&theme=tokyonight&hide_border=true" width="400" alt="E-Hospital Management System" />
