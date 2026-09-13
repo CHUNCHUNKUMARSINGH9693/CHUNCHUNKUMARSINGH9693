@@ -170,22 +170,28 @@ Building and improving a full-stack e-commerce application with product manageme
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUNCHUNKUMARSINGH9693&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUNCHUNKUMARSINGH9693&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+
 </a>
 
 </div>
 
 ---
 
-## 📅 Commit Graph
+## 📅 Commit Activity
 
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUNCHUNKUMARSINGH9693&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=238636&area=true&hide_border=true" width="100%" alt="GitHub Commit Graph" />
+  <img src="https://img.shields.io/badge/View%20All%20Commits-GitHub-181717?style=for-the-badge&logo=github" alt="View all GitHub commits" />
 </a>
 
 </div>
+
+<p align="center">
+  Explore my contribution calendar and commit activity directly on GitHub.
+</p>
 
 ---
 
@@ -193,7 +199,7 @@ Building and improving a full-stack e-commerce application with product manageme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CHUNCHUNKUMARSINGH9693/CHUNCHUNKUMARSINGH9693/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/CHUNCHUNKUMARSINGH9693/CHUNCHUNKUMARSINGH9693/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
