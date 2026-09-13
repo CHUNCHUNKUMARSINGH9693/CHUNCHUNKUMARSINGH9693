@@ -1,44 +1,42 @@
-# 💫 Hi 👋, I'm Chunchun Kumar Singh
-**A passionate Software Engineer || Full Stack Developer || Mern Stack Developer || Web Developer
+<h1 align="center">Hi 👋, I'm Chunchun Kumar Singh</h1>
+<h3 align="center">A passionate Software Engineer || Software Developer || Full Stack Developer || Web Developer || MERN Stack Developer</h3>
 
-Email Me 👉 ✉️ **chunchunkrsingh31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chunchunkumarsingh9693&label=Profile%20views&color=0e75b6&style=flat" alt="chunchunkumarsingh9693" /> </p>
 
-- 🌱 **I’m currently learning:** : Full Stack Developer
-- 👯 **I’m looking to collaborate on:**: E-Hospital Management System
-- 🤔 **I’m looking for help with:** E-Hospital Management System
-- 📫 **How to reach me:** chunchunkrsingh31@gmail.com
-- 😄 **Pronouns:** Mr. Chunchun
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chunchunkumarsingh9693" alt="chunchunkumarsingh9693" /></a> </p>
 
+- 🔭 I’m currently working on [E-Commerce with Virtual Assistant](https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CHUNCHUNKUMARSINGH9693&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **AI Integration in Web Development**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chunchun-kumar-singh-a05478282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chunchunkrsingh31@gmail.com) 
+- 👯 I’m looking to collaborate on [Zomato Clone](https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone)
 
-<!-- Snake Game Repo View -->
+- 🤝 I’m looking for help with [Zomato Clone](https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio](https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CHUNCHUNKUMARSINGH9693&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CHUNCHUNKUMARSINGH9693&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUNCHUNKUMARSINGH9693&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 📝 I regularly write articles on [https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio](https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio)
 
+- 💬 Ask me about **Full Stack Web Developer || Mern Stack Developer**
 
+- 📫 How to reach me **chunchunkrsingh31@gmail.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q1bGZYHh1C5aS3i07PgaeevAzbrJDRTZ/view?usp=drive_link](https://drive.google.com/file/d/1q1bGZYHh1C5aS3i07PgaeevAzbrJDRTZ/view?usp=drive_link)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CHUNCHUNKUMARSINGH9693&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- ⚡ Fun fact **I am a Website Developer**
 
----
-[![](https://visitcount.itsvg.in/api?id=CHUNCHUNKUMARSINGH9693&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chunchun kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chunchun kumar singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chunchunkrsingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chunchunkrsingh1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chunchunkumarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chunchunkumarsingh" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunchunkumarsingh9693&show_icons=true&locale=en&layout=compact" alt="chunchunkumarsingh9693" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chunchunkumarsingh9693&show_icons=true&locale=en" alt="chunchunkumarsingh9693" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chunchunkumarsingh9693&" alt="chunchunkumarsingh9693" /></p>
