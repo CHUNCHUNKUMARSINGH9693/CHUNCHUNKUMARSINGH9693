@@ -282,12 +282,13 @@ Food delivery web application built using the MERN Stack during internship train
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHUNCHUNKUMARSINGH9693&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Achievements-2563EB?style=for-the-badge&logo=github" alt="Explore GitHub Achievements" />
 </a>
 
 </div>
