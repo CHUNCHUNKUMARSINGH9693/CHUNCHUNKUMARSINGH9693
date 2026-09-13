@@ -222,81 +222,120 @@ Building and improving a full-stack e-commerce application with product manageme
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛒 E-Commerce With Virtual Assistant</h3>
+
+<p>
+A full-stack e-commerce platform featuring product management, authentication, shopping cart, order processing, payment integration, and a Gemini AI virtual assistant for intelligent customer assistance and product recommendations.
+</p>
+
+<p>
+<strong>Technologies:</strong><br>
+React.js • Node.js • Express.js • MongoDB • Gemini AI • Razorpay
+</p>
+
+<p>
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=ecommerce&theme=tokyonight&hide_border=true" alt="E-Commerce With AI Assistant" />
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce GitHub Repository"/>
 </a>
+&nbsp;
+<a href="https://ecommerce-ten-alpha-52.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo"/>
+</a>
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏥 E-Hospital Management System</h3>
+
+<p>
+A comprehensive hospital management platform with role-based modules for patients, doctors, nurses, pharmacists, and administrators, including appointments, prescriptions, pharmacy orders, and a voice-based virtual assistant.
+</p>
+
+<p>
+<strong>Technologies:</strong><br>
+React.js • Node.js • Express.js • MongoDB • Web Speech API
+</p>
+
+<p>
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/E-Hospital-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=E-Hospital-Management-System&theme=tokyonight&hide_border=true" alt="E-Hospital Management System" />
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Hospital GitHub Repository"/>
 </a>
+&nbsp;
+<a href="https://e-hospital-management-system-2mwu.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Hospital Live Demo"/>
+</a>
+</p>
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>💼 Personal Portfolio</h3>
+
+<p>
+A modern full-stack developer portfolio showcasing projects, technical skills, AI Labs, contact functionality, authentication, and an admin CMS for managing portfolio content.
+</p>
+
+<p>
+<strong>Technologies:</strong><br>
+React • Vite • Tailwind CSS • Node.js • Express.js • MySQL • Gemini AI
+</p>
+
+<p>
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=chunchun-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub Repository"/>
 </a>
+&nbsp;
+<a href="https://chunchun-portfolio-ashen.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo"/>
+</a>
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🍔 Zomato Clone</h3>
+
+<p>
+A responsive food delivery web application inspired by Zomato, developed during MERN Stack internship training with restaurant browsing, food categories, API integration, and modern responsive UI.
+</p>
+
+<p>
+<strong>Technologies:</strong><br>
+React.js • JavaScript • Tailwind CSS • REST API
+</p>
+
+<p>
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=Edunet-Zomoto-Clone&theme=tokyonight&hide_border=true" alt="Zomato Clone" />
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zomato Clone GitHub Repository"/>
+</a>
+&nbsp;
+<a href="https://zomoto-clone-weld.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Zomato Clone Live Demo"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/CHUNCHUNKUMARSINGH9693?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All GitHub Repositories"/>
 </a>
 
 </div>
 
-
-
-### 🛒 E-Commerce With Virtual Assistant
-
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="E-Commerce Repository" />
-</a>
-
-A full-stack e-commerce application with product management, authentication, shopping cart, payment integration and Gemini AI virtual assistant.
-
-**Technologies:** React.js • Node.js • Express.js • MongoDB • Gemini AI • Razorpay
-
-🔗 [Live Demo](https://ecommerce-ten-alpha-52.vercel.app/)
-
----
-
-### 🏥 E-Hospital Management System
-
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693/E-Hospital-Management-System">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="E-Hospital Repository" />
-</a>
-
-Hospital management system featuring staff roles, doctor schedules, patient records, appointment booking, digital prescriptions, online pharmacy and voice-based virtual assistant.
-
-**Technologies:** React.js • Node.js • Express.js • MongoDB • Web Speech API
-
-🔗 [Live Demo](https://e-hospital-management-system-2mwu.vercel.app/)
-
----
-
-### 💼 Personal Portfolio
-
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Portfolio Repository" />
-</a>
-
-Modern full-stack developer portfolio featuring projects, AI Labs, contact functionality and admin CMS.
-
-**Technologies:** React • Vite • Tailwind CSS • Node.js • Express.js • MySQL • Gemini AI
-
-🔗 [Live Demo](https://chunchun-portfolio-ashen.vercel.app/)
-
----
-
-### 🍔 Zomato Clone
-
-<a href="https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Zomato Clone Repository" />
-</a>
-
-Food delivery web application built using the MERN Stack during internship training.
-
-**Technologies:** React.js • JavaScript • Tailwind CSS • REST API
-
-🔗 [Live Demo](https://zomoto-clone-weld.vercel.app/)
-
----
 
 
 ## 🏆 GitHub Achievements
