@@ -242,7 +242,7 @@ React.js • Node.js • Express.js • MongoDB • Gemini AI • Razorpay
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce GitHub Repository"/>
 </a>
 &nbsp;
-<a href="https://ecommerce-ten-alpha-52.vercel.app/">
+<a href="https://ecommerce-tau-roan.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo"/>
 </a>
 </p>
@@ -294,7 +294,7 @@ React • Vite • Tailwind CSS • Node.js • Express.js • MySQL • Gemini 
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub Repository"/>
 </a>
 &nbsp;
-<a href="https://chunchun-portfolio-ashen.vercel.app/">
+<a href="https://chunchun-portfolio-zeta.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo"/>
 </a>
 </p>
