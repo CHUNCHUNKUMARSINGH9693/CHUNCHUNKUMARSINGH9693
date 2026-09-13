@@ -207,22 +207,25 @@ Building and improving a full-stack e-commerce application with product manageme
 <div align="center">
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=ecommerce&theme=tokyonight&hide_border=true" alt="E-Commerce With AI Assistant" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=ecommerce&theme=tokyonight&hide_border=true" width="400" alt="E-Commerce With AI Assistant" />
 </a>
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/E-Hospital-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=E-Hospital-Management-System&theme=tokyonight&hide_border=true" alt="E-Hospital Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=E-Hospital-Management-System&theme=tokyonight&hide_border=true" width="400" alt="E-Hospital Management System" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/chunchun-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=chunchun-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=chunchun-portfolio&theme=tokyonight&hide_border=true" width="400" alt="Personal Portfolio" />
 </a>
 
 <a href="https://github.com/CHUNCHUNKUMARSINGH9693/Edunet-Zomoto-Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHUNCHUNKUMARSINGH9693&repo=Edunet-Zomoto-Clone&theme=tokyonight&hide_border=true" alt="Zomato Clone" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CHUNCHUNKUMARSINGH9693&repo=Edunet-Zomoto-Clone&theme=tokyonight&hide_border=true" width="400" alt="Zomato Clone" />
 </a>
 
 </div>
+
 
 ### 🛒 E-Commerce With Virtual Assistant
 
